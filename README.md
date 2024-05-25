@@ -1,3 +1,5 @@
+[초대 링크](https://discord.com/oauth2/authorize?client_id=1243860705715945492&permissions=2048&scope=bot+applications.commands)
+
 # 작품 개략
 
 이 작품은 무엇인가요? 어떤 기능을 제공하나요?
